@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  min-width: 100vh;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+
+p {
+  margin: 0;
+}
+
+.Card {
+  background: rgb(175, 239, 255);
+  border-radius: 10px;
+  width: 25rem;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.Card_img {
+  text-align: center;
+  width: 65%;
+  height: 65%;
+  align-items: center;
+  align-self: center;
+}
+
+.Card_types {
+  display: flex;
+  justify-content: center;    
+}
+
+.Card_type {
+  align-items: center;
+  padding: 5px 10px;
+  margin: 10px 10px 10px 0;
+  border-radius: 5px;
+  background: cyan;
+  color: #fff;
+}
+
+.Card_name {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 800;
+}
+
+.Card_info {
+  margin-left: 10px;
+  text-align: center;
+}
+
+.Card_data {
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.Card_data .title {
+  font-weight: 700;
+  text-align: center;
+}
+
+.Navbar {
+  padding: 20px;
+  background: #FF4236;
+  color: white;
+  text-align: center;
+}
+
